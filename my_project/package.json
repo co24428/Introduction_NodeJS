@@ -10,6 +10,8 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "fastify": "^5.2.1",
+    "fastify-cli": "^7.3.0",
     "serve": "^14.2.4"
   }
 }
